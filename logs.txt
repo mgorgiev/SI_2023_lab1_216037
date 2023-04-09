@@ -1,0 +1,36 @@
+commit 21bb2db981691c7e6742ad450c1279581816a14c
+Author: Mihail Gorgiev <gorgievmihail5@gmail.com>
+Date:   Sun Apr 9 21:00:13 2023 +0200
+
+    Fix method sumEvenNumbers
+
+commit 466cfbe34a8123731624a25025c1d42e6547871e
+Merge: 71b5535 18fb192
+Author: Mihail Gorgiev <gorgievmihail5@gmail.com>
+Date:   Sun Apr 9 21:01:50 2023 +0200
+
+    Merge branch 'bug2'
+
+commit 18fb19254fdb09076d29caad685585b83ddedd37
+Author: Mihail Gorgiev <gorgievmihail5@gmail.com>
+Date:   Sun Apr 9 20:57:07 2023 +0200
+
+    Fix wrong condition in filterOddNumbers
+
+commit 71b5535444fe06c713bdc3890d17d2e9d7e47049
+Author: Mihail Gorgiev <gorgievmihail5@gmail.com>
+Date:   Sun Apr 9 20:55:02 2023 +0200
+
+    Fix wrong loop for reading
+
+commit 9f37c4188e8a8aa426614b0e8cb5abc8d3076035
+Author: Mihail Gorgiev <gorgievmihail5@gmail.com>
+Date:   Sun Apr 9 20:52:02 2023 +0200
+
+    Add java class
+
+commit 055ec052ced0505e57868c1034067902a2e63a8d
+Author: Mihail Gorgiev <gorgievmihail5@gmail.com>
+Date:   Sun Apr 9 20:50:36 2023 +0200
+
+    Initial commit
